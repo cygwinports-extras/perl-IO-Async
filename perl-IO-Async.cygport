@@ -2,7 +2,7 @@ CPAN_AUTHOR=pevans
 inherit perl
 
 NAME="perl-IO-Async"
-VERSION=0.64
+VERSION=0.67
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Asynchronous event-driven programming for Perl"
